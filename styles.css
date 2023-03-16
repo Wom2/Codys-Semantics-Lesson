@@ -9,3 +9,14 @@
     left: 0px;
     bottom: 165px;
 }
+.page{
+    background-color: rgb(210, 192, 0);
+}
+#foot1 /*this section is completly broken for some unknown reason even putting it back how it was doesnt fix it*/{
+    position: relative;
+    left: 150px;
+}
+#picture2{/*also doesnt work*/
+    left: 100px;
+    position: relative;
+}
