@@ -12,11 +12,13 @@
 .page{
     background-color: rgb(210, 192, 0);
 }
-#foot1 /*this section is completly broken for some unknown reason even putting it back how it was doesnt fix it*/{
-    position: relative;
-    left: 150px;
+#disclaimer{
+    position: absolute;
+    left: 650px;
+    top: 850px;
 }
-#picture2{/*also doesnt work*/
-    left: 100px;
-    position: relative;
+#picture2{
+    position: absolute;
+    left: 300px;
+    top: 433px;
 }
